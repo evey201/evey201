@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋</h1>
-<h3 align="left">I am a Frontend engineer and you can find me here:</h3>
+<p dir="auto" align="left">I am a Frontend engineer and you can find me here:</p>
 
 <!-- - 📫 How to reach me **evesho.alabi@gmail.com** -->
 
 <!-- <h3 align="left">Connect with me:</h3> -->
-<p align="left">
-<a href="mailto:evesho.alabi@gmail.com">evesho.alabi@gmail.com</a>
-<a href="https://www.linkedin.com/in/eveshonyanime-ocheche-alabi-755920159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eveshonyanime ocheche-alabi" height="30" width="40" /></a>
+<p dir="auto">
+<a href="https://www.linkedin.com/in/eveshonyanime-ocheche-alabi/" rel="nofollow"><img src="https://camo.githubusercontent.com/964a7288e9a3502bc7c6ed9fdddb43e80fd54c95ef769e4ae535afb38d74df4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7468656c616d696e612d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f7468656c616d696e612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-eveshonyanime ocheche-alabi-black?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/eveshonyanime ocheche-alabi/" style="max-width: 100%;"></a>
+<a href="mailto:evesho.alabi@gmail.com"><img src="https://camo.githubusercontent.com/0c6e577f35dec29aa7b3b85323ee73818df248b6c39bb6ea484354b4c85d8f83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c616d696e616974756e7540676d61696c2e636f6d2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6c616d696e616974756e7540676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-evesho.alabi@gmail.com-black?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:evesho.alabi@gmail.com" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
