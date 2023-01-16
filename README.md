@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋</h1>
 <p dir="auto" align="left">I am a Frontend engineer and you can find me here:</p>
 
-<!-- - 📫 How to reach me **evesho.alabi@gmail.com** -->
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p dir="auto">
+- 📫 How to reach me **evesho.alabi@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
