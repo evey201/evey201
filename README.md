@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Eveshonyanime</h1>
-<h3 align="center">I am a Frontend engineer</h3>
+<h1 align="left">Hi 👋</h1>
+<h3 align="left">I am a Frontend engineer and you can find me here:</h3>
 
-- 📫 How to reach me **evesho.alabi@gmail.com**
+<!-- - 📫 How to reach me **evesho.alabi@gmail.com** -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
+<a href="mailto:evesho.alabi@gmail.com">evesho.alabi@gmail.com</a>
 <a href="https://www.linkedin.com/in/eveshonyanime-ocheche-alabi-755920159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eveshonyanime ocheche-alabi" height="30" width="40" /></a>
 </p>
 
